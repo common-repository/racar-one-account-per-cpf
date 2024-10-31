@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: RaCar One Account Per CPF\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-12-20 11:22+0000\n"
+"PO-Revision-Date: 2024-05-16 14:20+0000\n"
+"Last-Translator: \n"
+"Language-Team: Português do Brasil\n"
+"Language: pt_BR\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.6; wp-6.4.2\n"
+"X-Domain: racar-one-account-per-cpf"
+
+#: includes/admin/views/html-notice-missing-brazil-market.php:26
+msgid "Activate Brazilian Market on WooCommerce"
+msgstr "Ativar Brazilian Market on WooCommerce"
+
+#: includes/admin/views/html-admin-activation-key.php:18
+msgid "Activate Key"
+msgstr "Ativar Licença"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:26
+msgid "Activate WooCommerce"
+msgstr "Ativar WooCommerce"
+
+#: includes/class-roapc-plugin.php:214
+#, php-format
+msgid "An account has already been registered with your CPF. %s"
+msgstr "Uma conta já foi cadastrada com seu CPF. %s"
+
+#: includes/admin/views/html-admin-activation-key.php:15
+#: includes/admin/views/html-admin-search.php:17
+msgid "Buy now!"
+msgstr "Comprar agora!"
+
+#: includes/class-roapc-plugin.php:217
+msgid "CPF is a required field."
+msgstr "CPF é um campo obrigatório."
+
+#: includes/admin/views/html-notice-missing-brazil-market.php:23
+msgid ""
+"depends on Brazilian Market on WooCommerce to be installed and active in "
+"order to work!"
+msgstr ""
+"é dependemte de Brazilian Market on WooCommerce estar instalado e ativado "
+"para funcionar!"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:23
+msgid "depends on WooCommerce to be installed and active in order to work!"
+msgstr "é dependente de WooCommerce estar instalado e ativado para funcionar!"
+
+#: includes/admin/class-roapc-action-list.php:48
+msgid "Donate"
+msgstr "Doar"
+
+#. URI of the plugin
+msgid "https://profissionalwp.dev.br/"
+msgstr "https://profissionalwp.dev.br/"
+
+#. Author URI of the plugin
+msgid "https://profissionalwp.dev.br/blog/contato/rafa-carvalhido/"
+msgstr "https://profissionalwp.dev.br/blog/contato/rafa-carvalhido/"
+
+#: includes/admin/views/html-notice-missing-brazil-market.php:34
+msgid "Install Brazilian Market on WooCommerce"
+msgstr "Instalar Brazilian Market on WooCommerce"
+
+#: includes/admin/views/html-notice-missing-woocommerce.php:34
+msgid "Install WooCommerce"
+msgstr "Instalar WooCommerce"
+
+#. Description of the plugin
+msgid ""
+"It makes sure that only one account may have a CPF number during "
+"registration. Requires the plugin 'Brazilian Market on WooCommerce' (aka "
+"Extra Checkout Fields for Brazil)."
+msgstr ""
+"Certifica de que apenas uma conta pode ter um número de CPF durante o "
+"registro de usuário. Rquer os plugins 'WooCommerce' e 'Brazilian Market on "
+"WooCommerce' (antigo Extra Checkout Fields for Brazil)."
+
+#: includes/admin/class-roapc-admin-options.php:72
+msgid "One Account Per CPF"
+msgstr "Uma Conta Por CPF"
+
+#: includes/admin/views/html-admin-search.php:16
+msgid "Perform a search for duplicates"
+msgstr "Realizar busca de duplicidade"
+
+#: includes/admin/views/html-admin-activation-key.php:14
+msgid "Perform Key activation"
+msgstr "Realizar Ativação de Licença"
+
+#: includes/class-roapc-plugin.php:210 includes/class-roapc-plugin.php:212
+msgid "Please login."
+msgstr "Por favor, faça o login."
+
+#: includes/admin/class-roapc-admin-options.php:106
+msgid "Plugin Activation"
+msgstr "Ativação do Plugin"
+
+#. Name of the plugin
+#: includes/admin/class-roapc-admin-options.php:71
+#: includes/admin/class-roapc-admin-options.php:82
+#: includes/admin/views/html-notice-missing-brazil-market.php:23
+#: includes/admin/views/html-notice-missing-woocommerce.php:23
+msgid "RaCar One Account Per CPF"
+msgstr "RaCar Uma Conta Por CPF"
+
+#. Author of the plugin
+msgid "Rafa Carvalhido"
+msgstr "Rafa Carvalhido"
+
+#: includes/admin/views/html-admin-search.php:19
+msgid "Search for Duplicates"
+msgstr "Buscar CPF Duplicado"
+
+#: includes/class-roapc-plugin.php:198 includes/class-roapc-plugin.php:202
+msgid "Security check failed"
+msgstr "Verificação de segurança falhou"
+
+#: includes/admin/class-roapc-action-list.php:40
+msgid "Settings"
+msgstr "Configurações"
+
+#: includes/admin/class-roapc-admin-options.php:83
+msgid ""
+"The plugin is already working and will accept only account subscription with "
+"different CPF from the ones already registered in the system."
+msgstr ""
+"O plugin já está funcionando e aceitará apenas registro de novas contas com "
+"CPF diferente dos que já estão cadastrados no sistema."
+
+#: includes/admin/views/html-admin-activation-key.php:15
+msgid "This is only necessary when you buy the Premium Version of this plugin."
+msgstr ""
+"Isto somente é necessário quando você tem a versão Premium deste plugin."
+
+#: includes/admin/views/html-admin-search.php:17
+msgid "This is Pro Feature of this plugin's Premium Version."
+msgstr "Este é um recurso premium da versão Pro do plugin."
+
+#: includes/admin/class-roapc-admin-options.php:105
+msgid "Tools"
+msgstr "Ferramentas"
+
+#: includes/admin/views/html-admin-activation-key.php:17
+msgid "type or paste key here"
+msgstr "digite ou cole a chave aqui"

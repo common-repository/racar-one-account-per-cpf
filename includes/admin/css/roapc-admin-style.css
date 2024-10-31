@@ -1,0 +1,16 @@
+.pro-feature {border: 2px dashed red;width: max-content;padding: 10px;}
+#roapc-activation-key-form, #roapcp-activation-key-form {margin-top: 20px;}
+#roapc-text-key, #roapcp-text-key {min-width: 220px;margin-right: 10px;}
+#deactivate-key-button {background: red;margin-left: 10px;}
+.wrap.roapcp .results {display: none;}
+.wrap.roapcp .validated {display: block !important;}
+.roapcp .repetido {visibility:hidden;}
+.roapcp .table-holder {visibility:visible;}
+.roapcp .repetido h3 {visibility:hidden;}
+.roapcp .table-holder h3 {visibility:visible; margin-top: 40px; margin-bottom: 0px; border: 1px solid #ccc; padding: 10px; max-width: max-content;}
+.roapcp .widefat.fixed {display: none;}
+.roapcp .table-holder .widefat.fixed {display: table;}
+.roapcp .alternate {display: none;visibility: hidden;height: 0px;}
+.roapcp .alternate.tr-class {display: table-row;;visibility: visible;height: unset;}
+.version-stats {font-size: 120%; background: #000; color: lime; width: max-content; padding: 10px 10px; line-height: 1.3;}
+.plugin-works {font-size: 18px; line-height: 1.4; padding: 10px 10px; max-width: 80%; margin: 10px -10px; box-shadow: 3px 3px 12px 5px #ccc; border-radius: 5px;}
